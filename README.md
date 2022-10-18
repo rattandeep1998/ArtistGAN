@@ -42,4 +42,4 @@ Face2Text for image descriptions
   - RAM: 16gb
   - GPU: Google Colab and Kaggle - Tesla T4 and K80
 
-For more details, refer to this presentation and thesis report.
+For more details, refer to [this](./ArtistGAN.pptx) presentation and [thesis report](https://docs.google.com/document/d/1uakd5dLHmJHw2fVydgTmoUyyETn7jdPCGYfOeVKdqq8/edit?usp=sharing).
